@@ -2,3 +2,4 @@ metastore_db
 derby.log
 *.json
 *.pdf
+*.doc2vec
