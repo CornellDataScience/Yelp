@@ -1,5 +1,7 @@
 #List of Functions Used in vmo5_tipanalysis.py.
 
+from collections import defaultdict
+
 def ElitePatternof4(thisyear, nextyear, users):
     '''Returns elite pattern in following list: 
     (1) elite this year | non-elite next year E.N.
